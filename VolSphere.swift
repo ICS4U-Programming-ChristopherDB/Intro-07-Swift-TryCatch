@@ -31,7 +31,8 @@ func main() {
     if let radiusInput = readLine(), let radius = Double(radiusInput), radius > 0 {
         // Calculates the volume of the sphere
         let volumeSphere = (4.0/3.0 * Double.pi * pow(radius, 3))
-        print("The volume is equal to: \(volumeSphere) \(radiusUnits)^3")
+        let roundedVolume = round(volumeSphere * 1000) / 1000.0
+        print("The volume is equal to: \(roundedVolume) \(radiusUnits)^3")
     } else {
         print("You must enter a positive number for the radius.")
     }
