@@ -24,7 +24,7 @@ func main() {
 
     print("Enter the units of the radius: ", terminator: "")
     // Gets the units of the radius from user
-    let radiusUnits : String = readLine()!
+    let radiusUnits: String = readLine()!
 
     print("Enter the radius: ", terminator: "")
     // Gets radius from the user. Checks for negative numbers.
