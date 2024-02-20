@@ -1,3 +1,3 @@
-# Intro-06-Swift-VolSphere
+# Intro-07-Swift-TryCatch
 
-[![SwiftLint](https://github.com/ICS4U-Programming-ChristopherDB/Intro-06-Swift-VolSphere/workflows/SwiftLint/badge.svg)](https://github.com/ICS4U-Programming-ChristopherDB/Intro-06-Swift-VolSphere/actions/)
+[![SwiftLint](https://github.com/ICS4U-Programming-ChristopherDB/Intro-07-Swift-TryCatch/workflows/SwiftLint/badge.svg)](https://github.com/ICS4U-Programming-ChristopherDB/Intro-07-Swift-TryCatch/actions/)
